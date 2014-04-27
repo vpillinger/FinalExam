@@ -96,7 +96,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Comments" image="first" id="7"/>
+                    <tabBarItem key="tabBarItem" title="Comments" id="7"/>
                 </viewController>
             </objects>
             <point key="canvasLocation" x="653" y="-138"/>
@@ -361,7 +361,7 @@
                         <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="0.25098040700000002" alpha="1" colorSpace="calibratedRGB"/>
                         <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Card Game" image="cardtabbaritem.png" id="6"/>
+                    <tabBarItem key="tabBarItem" title="Card Match" image="cardtabbaritem.png" id="6"/>
                     <connections>
                         <outlet property="scoreLabel" destination="BBB-58-the" id="g8a-EL-RKU"/>
                         <outletCollection property="cardButtons" destination="Aby-yP-Di5" id="Qaa-9Z-UeE"/>
@@ -398,8 +398,8 @@
                     </tabBar>
                     <connections>
                         <segue destination="lBb-8U-rDd" kind="relationship" relationship="viewControllers" id="64W-F5-kt6"/>
-                        <segue destination="3" kind="relationship" relationship="viewControllers" id="27"/>
                         <segue destination="ICI-ht-5V7" kind="relationship" relationship="viewControllers" id="i6V-ok-LZU"/>
+                        <segue destination="3" kind="relationship" relationship="viewControllers" id="27"/>
                         <segue destination="2" kind="relationship" relationship="viewControllers" id="26"/>
                     </connections>
                 </tabBarController>
@@ -521,7 +521,6 @@
     <resources>
         <image name="cardtabbaritem.png" width="40" height="34"/>
         <image name="etchtabbaritem.png" width="50" height="40"/>
-        <image name="first" width="16" height="16"/>
         <image name="morback.png" width="64" height="96"/>
         <image name="redframe.png" width="565" height="462"/>
         <image name="spirotabbaritem.png" width="50" height="50"/>

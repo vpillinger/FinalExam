@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8D33D0D8190C40B200E6900B"
-               BuildableName = "final.app"
+               BuildableName = "FinalExam.app"
                BlueprintName = "FinalExam"
                ReferencedContainer = "container:FinalExam.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8D33D107190C40B300E6900B"
-               BuildableName = "finalTests.octest"
+               BuildableName = "FinalExamTests.octest"
                BlueprintName = "FinalExamTests"
                ReferencedContainer = "container:FinalExam.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8D33D0D8190C40B200E6900B"
-            BuildableName = "final.app"
+            BuildableName = "FinalExam.app"
             BlueprintName = "FinalExam"
             ReferencedContainer = "container:FinalExam.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8D33D0D8190C40B200E6900B"
-            BuildableName = "final.app"
+            BuildableName = "FinalExam.app"
             BlueprintName = "FinalExam"
             ReferencedContainer = "container:FinalExam.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8D33D0D8190C40B200E6900B"
-            BuildableName = "final.app"
+            BuildableName = "FinalExam.app"
             BlueprintName = "FinalExam"
             ReferencedContainer = "container:FinalExam.xcodeproj">
          </BuildableReference>
